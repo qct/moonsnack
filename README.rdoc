@@ -1,5 +1,13 @@
 == 小飞，我们一起努力，路还很长！
 
+== 有关 git flow 
+
+git flow 是一个git工具，用来管理分支的，具体可以看这个http://weizhifeng.net/why-not-using-git-flow.html
+这是它的项目主页：https://github.com/nvie/gitflow
+这是安装过程:https://github.com/nvie/gitflow/wiki/Installation
+其实非常简单，就是
+       $ apt-get install git-flow
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
